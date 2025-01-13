@@ -10,12 +10,12 @@ Este projeto foi desenvolvido como parte do curso Start na Programação da OneB
 
 ## 📝 Funcionalidades Principais
 <li>Estruturação de conteúdo com HTML.
-<li>Estilização e layout responsivo com CSS.
+<li>Estilização com CSS.
 <li>Interatividade básica com JavaScript para lidar com eventos do usuário.
 
 ## 🛠️ Tecnologias Utilizadas
 <li>HTML5: Para criar a estrutura da página.
-<li>CSS3: Para estilização e design responsivo.
+<li>CSS3: Para estilização.
 <li>JavaScript: Para eventos e interatividade.
 
 ## 📸 Telas
